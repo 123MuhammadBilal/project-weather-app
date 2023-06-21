@@ -1,0 +1,138 @@
+.main_container {
+    max-width: 1170px;
+    margin: 0 auto;
+  }
+  
+  .homebutton {
+    color: #E0E0E0;
+    left: 25px;
+    position: absolute;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .nextarrow {
+    color: #E07A5F;
+    left: 25px;
+    text-decoration: none;
+    height: 30px;
+    min-Width: 30px;
+    background-color: #E0E0E0;
+    border-radius: 45px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 12px 0px 5px 0px;
+    cursor: pointer;
+  }
+  
+  .showMorearrow {
+    color: #E0E0E0;
+    text-decoration: none;
+    height: 60px;
+    min-Width: 62px;
+    background-color: #E07A5F;
+    border-radius: 45px;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 6px 8px 5px;
+    display: flex;
+    margin: 32px 30px 0px 40px;
+    cursor: pointer;
+    font-size: 40px;
+  }
+  
+  .weather_compo {
+    justify-content: flex-start;
+    height: 150px;
+    float: left;
+    margin: 0 auto;
+    display: flex;
+    text-align: left;
+    flex-direction: column;
+  }
+  .weather_compo2 {
+    justify-content: flex-start;
+    height: 241px;
+    margin-top: 10px!important;
+    display: flex;
+    text-align: left;
+    background: #e07a5f;
+    flex-direction: column;
+    margin-left: -18px;
+    width: 212px;
+  }
+  
+  .weather_deta {
+    justify-content: center;
+    width: 100px;
+    color: #E0E0E0;
+    background: #e07a5f;
+    padding: 2px 10px;
+    margin: 9px 0px !important;
+    box-shadow: 1px 1px 2px 0px;
+    border-radius: 6px;
+    border: 1px solid #f7a18a;
+    height: 43px;
+    display: flex;
+    align-items: center;
+  }
+  .weather_deta2 {
+    width: 155px;
+    color: #E0E0E0;
+    background: #e07a5f;
+    padding: 2px 10px;
+    margin: 9px 0px !important;
+    box-shadow: 1px 1px 2px 0px;
+    border-radius: 6px;
+    border: 1px solid #f7a18a;
+  }
+  .day_data {
+    word-spacing: 60px;
+    color: #e07a5f;
+    background: #E0E0E0;
+    padding: 2px 10px;
+    margin: 9px 0px !important;
+    box-shadow: 1px 1px 2px 0px;
+    border-radius: 6px;
+    border: 1px solid #f7a18a;
+  }
+  
+  .css-1aquho2-MuiTabs-indicator {
+    display: none;
+  }
+  
+  .css-164ni4m-MuiButtonBase-root-MuiTab-root.Mui-selected {
+    color: #e0e0e0 !important;
+    background: #e07a5f !important;
+  }
+  
+  .slid_arrow {
+    height: 92% !important;
+    color: #E07A5F;
+    text-decoration: none;
+    width: 17px;
+    background-color: #E0E0E0;
+    border-bottom-right-radius: 9px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 10px 0px 5px -27px;
+    cursor: pointer;
+    border-top-right-radius: 9px;
+  }
+  
+  .slid_arrow2 {
+    height: 93% !important;
+    color: #E07A5F;
+    text-decoration: none;
+    width: 17px;
+    background-color: #E0E0E0;
+    border-bottom-right-radius: 9px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    margin: 10px 0px 5px -10px;
+    cursor: pointer;
+    border-top-right-radius: 9px;
+  }
